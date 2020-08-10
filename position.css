@@ -1,0 +1,20 @@
+
+body {
+    
+}
+
+.top {
+    position: fixed;
+    top: 0;
+}
+#left {
+    float: left;
+}
+
+#center {
+    margin: auto;
+}
+
+#right {
+
+}
